@@ -1,4 +1,10 @@
 # copyandpaste
+before using this you need to install following dependencies
+npm install gulp --save-dev
+npm install gulp-jshint --save-dev
+npm install gulp-cleanup --save-dev
+npm install yargs --save-dev
+
 This is mainly created copy folder from source and paste in destnation given source.
 
 Here i wrote two tasks to perform 
