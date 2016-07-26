@@ -1,0 +1,27 @@
+{
+  "name": "copyandpaste",
+  "version": "1.0.0",
+  "description": "copy the files and save on destination folder",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "yargs": "^4.7.1",
+    "jshint": "^2.9.2",
+    "gulp-clean": "^0.3.2",
+    "gulp-jshint": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdamodarreddy/copyandpaste.git"
+  },
+  "author": "Damodar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdamodarreddy/copyandpaste/issues"
+  },
+  "homepage": "https://github.com/mdamodarreddy/copyandpaste#readme"
+}
